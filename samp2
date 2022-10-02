@@ -1,0 +1,110 @@
+<html>
+    <head>
+      <title>central university page</title>
+      <style>
+         h1{
+            text-align: center;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            text-decoration: underline;
+             }
+              h2{
+                text-align: center;
+                font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+              }
+               
+               .jnu{
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+                 width: 40%;
+               }
+
+                 body
+                 {
+                  background: linear-gradient(105deg,rgb(252, 223, 235) 50%,rgb(229, 252, 232) 50%);
+                 }
+
+
+
+
+
+ 
+
+
+
+
+
+      </style>
+    </head>
+<body>
+       <h1>CENTRAL university in india </h1>
+   
+
+<p> in the Ministry of <br>
+     <br>
+    As of 31 March 2021, The list of central universities published by the UGC includes 54
+     central universities. <br>
+    . <br>
+    .</p>    
+
+
+      <ol>  Top 10 Central Universities in India
+<li> Jawaharlal Nehru University (JNU), New Delhi.   NIRF RANK #2 </li>
+<li>  </li>
+<li></li>
+<li>  </li>
+<li>Aligarh Muslim University, Uttar Pradesh.  NIRF RANK #10</li>
+<li>  </li>
+<li>Tezpur University, Assam.  NIRF RANK #73</li>
+</ol>
+
+  
+    <h2>about top 3 central universities</h2>
+     
+                       
+ 
+
+
+
+
+         <h5>2. Banaras Hindu University (BHU) </h5>
+         Founded in 1916, the Shri Pandit Madan Mohan Malviya Banaras Hindu University has become a university of national importance. 
+         The huge varsity of 140 departments, 14 faculties, women’s college, and interdisciplinary centres,
+         has made this university one of the esteemed Universities and has ranked at the top of every student’s wishlist.
+         This university has been recognized by UGC and has ranked in the 3rd position in the NIRF rank list. <br> <br> <br> <br>
+
+
+         <div class="jnu">
+         
+                       <a href="https://en.wikipedia.org/wiki/Banaras_Hindu_University">
+
+                    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/Banaras_Hindu_University_Emblem_Seal_Transparent.png/150px-Banaras_Hindu_University_Emblem_Seal_Transparent.png" alt="" class="jnu">
+
+
+                       </a>
+         </div>
+
+
+
+
+
+          <h5>3. Jamia MiJamia Millia Islamia </h5>
+            University is situated in the heart of Delhi. Established in 1920, 
+             this university has extended itself to a huge extent. 9 faculties, 38 departments, and 27 learning and research centres,
+             have made NAAC offer it grade A++. This UGC-recognized university has secured 6th position in the university category,
+             and 13th position in the overall category in the NIRF rank list, 2021. <br> <br> <br> <br>
+
+             <div class="jnu">
+               <a href="https://en.wikipedia.org/wiki/Jamia_Millia_Islamia">
+                
+                 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Jamia_Millia_Islamia_Logo.svg/250px-Jamia_Millia_Islamia_Logo.svg.png" alt="" class="jnu">
+              </a>
+            </div>
+            
+         
+
+</body>
+
+
+
+</html>

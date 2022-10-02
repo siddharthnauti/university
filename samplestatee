@@ -1,0 +1,122 @@
+<html>
+    <head>
+     <title>
+        private university
+     </title>
+    <style>
+        h1{
+            text-align: center;
+            text-decoration: underline;
+
+        }
+        body
+        {
+            background: linear-gradient(60deg, rgb(134, 134, 187),rgb(204, 156, 156));
+        }
+        .pic{
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 40%;
+        }
+ 
+
+
+
+    </style>
+
+
+
+
+    </head>
+
+     <body>
+        <h1>STATE UNIVERSITY</h1>
+      <p>  State universities are public universities run by the state government of each of the states and territories of India, and are usually established by a local legislative assembly act. <br>
+         The University Grants Commission (UGC), draws its power from the University Grants Commission Act, 1956. <br>
+         In addition, 15 Professional Councils are established, controlling different aspects of accreditation and coordination. <br>
+         The UGC publishes and regularly updates the lists of state universities. <br>
+         As of 4 March 2021, the UGC lists 443 state universities. <br>
+         [note 1] The oldest establishment date listed by the UGC is 1857, shared by the University of Calcutta, the University of Madras and the University of Mumbai. <br> <br> <br>
+
+        Section 12 (B) of the UGC Act of 1956 also grants the UGC the right to "allocate and disburse, out of the Fund of the Commission, grants to Universities..." <br>
+        As such, the UGC categorizes state universities as either "declared fit to receive Central/UGC assistance under Section 12 (B) of the UGC Act–1956", or not, and notes this status at the lists published.
+         Updates to these declarations are done in meetings of the UGC and published in the minutes. <br>
+        The latest list, published by the UGC on 4 March 2022, lists 264 universities as fit to receive Central/UGC assistance. <br>  <br>
+        
+        Other types of universities controlled by the UGC include:
+        
+        Central universities, or Union universities are established by Act of Parliament and are under the purview of the Department of Higher Education in the Union Human Resource Development Ministry. <br>
+        Deemed university, or "Deemed-to-be-University", is a status of autonomy granted by the Department of Higher Education on the advice of the UGC, under Section 3 of UGC Act, 1956.  <br>
+        Private universities are approved by the UGC. They can grant degrees but they are not allowed to have off-campus affiliated colleges. <br> <br>
+        Apart from the above universities, other institutions are granted the permission to autonomously award degrees. These institutes do not affiliate colleges and are not officially called "universities" but "autonomous organizations" or "autonomous institutes".  <br>
+        They fall under the administrative control of the Department of Higher Education. <br>
+         These organizations include the Indian Institutes of Technology, the National Institutes of Technology, the Indian Institutes of Science Education and Research, the Indian Institutes of Management (though these award diplomas, not degrees) and other autonomous institutes. <br>
+        The year of establishment is the year stated by the UGC. <br>
+        Cases where this year is different than the year stated by the university are noted. Differences in title are also noted, except minor typographical errors and "University of X"/"X University" differences.  <br></p>
+        
+        <h1>TOP 5 UNIVERSITY IN STATES</h1>
+
+        1. University of Mumbai. <br>
+        2. University of Calcutta, Kolkata. <br>
+        3. Pune University, Pune. <br>
+        4. Punjabi University, Patiala <br>
+        5. University of Rajasthan, Jaipur <br>
+
+        <h1>TOP 3 UNIVERSITY IN STATES</h1>
+
+        <h4>1. university of mumbai</h4>
+        <p>University of Mumbai was founded in year 1857and this is one of the oldest university in India.
+         The National Assessment and Accreditation Council (NAAC) had awarded the university as a five star status in year 2001 & got ‘A’ grade status in year 2012.
+        Fine Arts, Social Work, Physical Education, Sanskrit, Marathi, Pali, Urdu, Russian, Persian Arabic, German, French, Kannada, Early Childhood Care and Education,
+        Physical Education, Library and Information Science, Yogic Education, Doctor of Letters (D.Litt.), Management Studies.
+
+            </p>
+            <div class="pic">
+            <a href="https://en.wikipedia.org/wiki/University_of_Mumbai"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/University_of_Mumbai_coat_of_arms.svg/200px-University_of_Mumbai_coat_of_arms.svg.png" alt="" class="pic"></a>
+           </div>
+       <h4>2. university of calcutta</h4>
+       University of Calcutta was founded in year 1857. The National Assessment and Accreditation Council ( NAAC) has accredited the university as a five star status in year 2001.
+
+According to 2009 assessment of the Top Asian Universities, Calcutta University is ranked as third within the Indian Universities.
+
+The University offers Doctorate, Post graduate, Graduates courses in following:
+
+Commerce, Science, Music, Visual Art, Business Administration, B.Ed, Horticulture, Technical, MCA, Philosophy, Arts, Bengali, History, English, Human Development, Political Science, Sanskrit, Physical.
+         <div class="pic">
+       <a href="https://en.wikipedia.org/wiki/University_of_Calcutta"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/University_of_Calcutta_logo.svg/220px-University_of_Calcutta_logo.svg.png" alt="" class="pic"></a>
+           </div>
+<h4>3. pune university </h4>
+    
+    
+    Pune University was established on 10th February, 1948.
+     Every year many students comes to Pune University from across the country also from the world. 
+     It is also known as ‘Oxford of the East’. 
+     The university has about 46 academic departments, 307 recognized research institutes and 612 affliliated colleges which offers graduate and under-graduate courses.
+     There are approx. 4,22,000 Books & Journals in the University of Pune.
+     Philosophy, Arts, Oriental Learning, Sanskrit, Hindi Functional languages,
+      Russian, French, German, Russian, Japanese, Urdu, Lalit Kala, Pali, Modern European Languages,
+       Manuscriptology, Translation, Vyavaharik Marathi Padvika Abhyaskram, Ayurved Vachaspati,
+      Homeopathic Medicine Surgery, Unani Medicine & Surgery, Naturopathy & Yogic science.
+      <div class="pic">
+      <a href="https://en.wikipedia.org/wiki/Savitribai_Phule_Pune_University"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Savitribai_Phule_Pune_University_Logo.png/250px-Savitribai_Phule_Pune_University_Logo.png" alt="" class="pic"> </a>
+    </div>
+     
+
+
+
+
+
+
+
+
+
+
+
+
+     </body>
+
+
+
+    
+</html>
